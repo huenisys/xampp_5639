@@ -28,6 +28,7 @@
 /apache/conf/extra/*
 /apache/conf/extra/*/
 !/apache/conf/extra/httpd-vhosts.conf
+!/apache/conf/extra/httpd-ssl.conf
 
 !/apache/conf/extra/vhosts
 !/apache/conf/extra/vhosts/test-laravel.apacheconf
